@@ -5,7 +5,7 @@ import "../assets/tailwind.css";
 const test = (
   <div>
     <h1 className="text-4xl text-green-500">hello World</h1>
-    <p>lorem epsom</p>
+    <img src="banner.jpg" alt="" />
   </div>
 );
 

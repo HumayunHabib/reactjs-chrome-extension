@@ -18,7 +18,7 @@ __webpack_require__.r(__webpack_exports__);
 
 const test = (react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null,
     react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", { className: "text-4xl text-green-500" }, "hello World"),
-    react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "lorem epsom")));
+    react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", { src: "banner.jpg", alt: "" })));
 const container = document.createElement("div");
 document.body.appendChild(container);
 const root = (0,react_dom_client__WEBPACK_IMPORTED_MODULE_1__.createRoot)(container);
